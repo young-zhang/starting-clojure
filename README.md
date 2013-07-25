@@ -1,13 +1,7 @@
 # startingclojure
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+Sample code that goes with the [Starting Clojure screen cast](http://www.youtube.com/watch?v=VVd4ow-ZcX0)
 
 ## License
-
-Copyright © 2013 FIXME
 
 Distributed under the Eclipse Public License, the same as Clojure.
